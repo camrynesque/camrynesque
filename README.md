@@ -21,3 +21,4 @@ Fix bug in feature X
 Polish UI layout
 Optimize loop
 Rewrite function Y
+Update API endpoint
