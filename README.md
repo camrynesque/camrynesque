@@ -23,3 +23,4 @@ Optimize loop
 Rewrite function Y
 Update API endpoint
 Clean up codebase
+Refactor core logic
