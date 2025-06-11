@@ -22,3 +22,4 @@ Polish UI layout
 Optimize loop
 Rewrite function Y
 Update API endpoint
+Clean up codebase
